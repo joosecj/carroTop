@@ -15,5 +15,14 @@ a:hover {
   width: 100%;
   max-width: 960px;
   margin: 0 auto;
+  padding: 0 20px;
+}
+
+.ct-mb20 {
+  margin-bottom: 40px;
+}
+
+.ct-mt20 {
+  margin-top: 40px;
 }
 

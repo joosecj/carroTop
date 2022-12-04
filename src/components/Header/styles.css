@@ -1,0 +1,9 @@
+.ct-header {
+  background-color: #F78B00;
+  padding: 20px 20px;
+  height: 70px;
+}
+
+.ct-header h1 {
+  font-size: 24px;
+}

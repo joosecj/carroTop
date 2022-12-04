@@ -1,7 +1,7 @@
-import ButtonNexPage from '../../components/ButtonNextPage';
+
 import CardCatalog from '../../components/CardCatalog';
 import Header from '../../components/Header';
-import SearchBar from '../../components/Header/SearchBar';
+import SearchBar from '../../components/SearchBar';
 import './styles.css';
 
 export default function Catalog() {

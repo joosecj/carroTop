@@ -1,5 +1,5 @@
 .ct-card {
-  background-color: #EDEDED;
+  background-color: var(--bg-card);
   border-radius: 10px;
 }
 
@@ -21,12 +21,12 @@
 }
 
 .ct-catalog-card-bottom h3 {
-  color: #000;
+  color: var(--text-black);
   font-size: 18px;
   margin-bottom: 14px;
 }
 
 .ct-catalog-card-bottom h4 {
-  color: #585858;
+  color: var(--text-grey);
   font-size: 14px;
 }

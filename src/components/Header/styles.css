@@ -1,5 +1,5 @@
 .ct-header {
-  background-color: #F78B00;
+  background-color: var(--bg-orange);
   padding: 20px 20px;
   height: 70px;
 }

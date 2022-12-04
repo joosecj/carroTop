@@ -1,8 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+:root {
+  --text-blue: #00285F;
+  --text-black: #000000;
+  --text-grey: #585858;
+  --text-white: #FFFFFF;
+
+  --bg-orange: #F78B00;
+  --bg-blue: #00285F;
+  --bg-card: #EDEDED;
+  --bg-search-border: #A7A7A7;
+
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Open Sans";
+  font-family: "Reboto";
 }
 
 a,
